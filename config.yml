@@ -1,6 +1,6 @@
-baseURL: https://icloudgo.net/
+baseURL: https://icloudgo.devok.store/
 languageCode: en-us
-title: iCloudGo
+title: KB (forked)
 paginate: 5
 theme: "PaperMod"
 
@@ -40,8 +40,8 @@ outputs:
 
 params:
   env: production
-  description: "iCloudGo.net"
-  author: iCloudGo
+  description: "iCloudGo.KB.Devok"
+  author: George A.
   keywords: [blog, tutorials, guides, IT, cloud]
   categories: 
     - network security  
@@ -50,7 +50,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
@@ -71,10 +71,10 @@ params:
   
   socialIcons:
         - name: github
-          url: "https://github.com/zcatk/icloudgo"
+          url: "https://github.com/ggatesdew"
         #- name: KoFi
         #  url: "https://ko-fi.com/adityatelange"
-        - name: Rss
+        #- name: Rss
           url: "index.xml"
 
   assets:
