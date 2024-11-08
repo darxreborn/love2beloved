@@ -64,10 +64,9 @@ params:
   homeInfoParams:
       Title: "Welcome to my blog!"
       Content: >
-        I started this blog as an excuse to try out Cloudflare Pages and a 
-        place to capture my notes and thoughts on recent events in my life.
+        I started this blog as a place to capture my notes and thoughts on recent events in my life.
         I feel like I had enough containing all my thoughts and all I feel within, so it's time to write it down.
-        Again, welcome to my thoughts diary, let's get into it!
+        Again, welcome to my masterpiece of blogging, let's get into it!
   
   socialIcons:
         - name: github
