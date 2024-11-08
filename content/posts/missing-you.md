@@ -1,10 +1,14 @@
 ---
 title: "Missing you"
-date: {{ .Date }}
-draft: true
+date: 2024-11-08T10:18:09-04:00
 categories: 
+    - stories
+    - elaboration
+    - experiences
 tags:
-
+    - life
+    - love
+    - thoughts
 editPost:
     URL: "https://github.com/"
     Text: "Suggest Changes" # edit text
