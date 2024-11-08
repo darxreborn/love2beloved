@@ -1,6 +1,6 @@
-baseURL: https://icloudgo.devok.store/
+baseURL: https://love2beloved.devok.store/
 languageCode: en-us
-title: KB (forked)
+title: Love2Love
 paginate: 5
 theme: "PaperMod"
 
@@ -40,11 +40,11 @@ outputs:
 
 params:
   env: production
-  description: "iCloudGo.KB.Devok"
+  description: "Love2BeLoved"
   author: George A.
-  keywords: [blog, tutorials, guides, IT, cloud]
+  keywords: [blog, feelings, writeouts]
   categories: 
-    - network security  
+    - self expression  
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -62,16 +62,16 @@ params:
   # comments: false
   
   homeInfoParams:
-      Title: "Welcome to iCloudGo!"
+      Title: "Welcome to my blog!"
       Content: >
         I started this blog as an excuse to try out Cloudflare Pages and a 
-        place to capture my notes and thoughts on recent projects, configurations, and tools.
-        Hopefully my tutorials and guides can also assist with your own projects. 
-        Again, welcome and please reach out with any suggestions or questions. 
+        place to capture my notes and thoughts on recent events in my life.
+        I feel like I had enough containing all my thoughts and all I feel within, so it's time to write it down.
+        Again, welcome to my thoughts diary, let's get into it!
   
   socialIcons:
         - name: github
-          url: "https://github.com/ggatesdew"
+          url: "https://github.com/darxreborn"
         #- name: KoFi
         #  url: "https://ko-fi.com/adityatelange"
         #- name: Rss
