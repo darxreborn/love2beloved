@@ -1,5 +1,5 @@
 ---
-title: "I said... I have a husband"
+title: "I said I have a husband"
 date: 2024-11-09T10:18:09-04:00
 categories: 
     - stories
