@@ -6,9 +6,9 @@ theme: "PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
-buildExpired: false
+buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
@@ -36,7 +36,7 @@ outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
+        - JSON
 
 params:
   env: production
@@ -44,12 +44,15 @@ params:
   author: George A.
   keywords: [blog, feelings, writeouts]
   categories: 
-    - self expression  
+    - self expression
+    - stories
+    - elaboration
+    - experiences
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
